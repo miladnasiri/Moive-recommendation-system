@@ -2,8 +2,7 @@
 
 A comprehensive movie recommendation system implementing multiple state-of-the-art algorithms with performance visualization and analysis.
 
-[![[Demo Video]https://github.com/miladnasiri/Moive-recommendation-system/assets/YOUR_USERNAME/Milad.mp4](https://github.com/miladnasiri/Moive-recommendation-system/assets/71961382/e1e4c9e7-43dd-4e2e-974e-abf97d714aa4)
-
+https://user-images.githubusercontent.com/YOUR_USER_ID/Moive-recommendation-system/assets/YOUR_USER_ID/Milad.mp4
 ## Technical Overview
 
 This project implements a movie recommendation system using various collaborative filtering approaches, matrix factorization techniques, and hybrid methods. The system is designed to provide personalized movie recommendations by analyzing user-item interaction patterns and integrating multiple recommendation strategies for optimal performance.
