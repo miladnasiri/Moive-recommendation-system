@@ -2,7 +2,7 @@
 
 A comprehensive movie recommendation system implementing multiple state-of-the-art algorithms with performance visualization and analysis.
 
-![[Demo Video]https://github.com/miladnasiri/Moive-recommendation-system/assets/YOUR_USERNAME/Milad.mp4
+[![[Demo Video]https://github.com/miladnasiri/Moive-recommendation-system/assets/YOUR_USERNAME/Milad.mp4](https://github.com/miladnasiri/Moive-recommendation-system/assets/71961382/e1e4c9e7-43dd-4e2e-974e-abf97d714aa4)
 
 ## Technical Overview
 
